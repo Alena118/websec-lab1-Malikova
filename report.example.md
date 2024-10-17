@@ -18,6 +18,7 @@
 2.1 DNS-серверы
 Используются DNS-серверы:
 
+`mia.ns.cloudflare.com` 
 `cartman.ns.cloudflare.com` 
 
 2.2 Топология сети
